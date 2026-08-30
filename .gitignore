@@ -1,0 +1,18 @@
+# Environments & Packages
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Data & Large Files
+data/
+*.h5
+*.pkl
+*.pt
+.pt_cache/
+
+# Local Config & Secrets
+.env
+.vscode/
+.idea/
+.DS_Store
